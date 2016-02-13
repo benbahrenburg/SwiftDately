@@ -1,0 +1,6 @@
+framework module SwiftDately {
+  umbrella header "SwiftDately-umbrella.h"
+
+  export *
+  module * { export * }
+}

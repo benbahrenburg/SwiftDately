@@ -1,0 +1,25 @@
+{
+  "name": "SwiftDately",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftDately.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SwiftDately",
+  "license": "MIT",
+  "authors": {
+    "Ben Bahrenburg": "ben.bahrenburg@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SwiftDately.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "SwiftDately": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
